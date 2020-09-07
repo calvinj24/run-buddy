@@ -12,3 +12,5 @@ https://calvinj24.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Cal Johnson
+
+### ©️2019 Run Buddy, Inc 
